@@ -1,3 +1,9 @@
+
+import random,sys
+print("rock,paper ,scissors")
+wins=0
+loss=0
+ties=0
 while True:
  print("%s wins,%s loss,%s ties" %(wins,loss,ties))
   while True:
@@ -27,3 +33,6 @@ while True:
       print("its a tie!")
       tie = ties+1
   elif playermove 
+
+
+
