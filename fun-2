@@ -1,0 +1,3 @@
+def fun2(name):
+   print("hello "+name)
+fun2("Heeba")
